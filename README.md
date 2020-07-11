@@ -29,6 +29,9 @@ Link da Amazon: https://bityli.com/UI9lk
 - Capítulo 1: Motivação
 - Capítulo 2: Preparando o Ambiente
 - Capítulo 3: Variáveis e entrada de Dados
+
+------------
+
 2020-07-11 16:11:01 Saturday 
 Continua conforme eu for upando os códigos
 
